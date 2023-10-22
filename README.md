@@ -10,4 +10,4 @@ Atualmente estou cursando Informáticas para Negócios e ainda não trabalho na 
 
 ## GitHub Stats
 
-[![Matheus Pereira GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mperera8&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Matheus Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
