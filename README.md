@@ -1,6 +1,6 @@
 # Olá, sou o Matheus Pereira.
 
-Atualmente estou cursando Informáticas para Negócios e ainda não trabalho na área de desenvolvimento, mas tenho facilidade para aprender e gosto muuito de JAVA.
+Atualmente estou cursando Informáticas para Negócios e ainda não trabalho na área de desenvolvimento, mas tenho facilidade para aprender e gosto muito de JAVA.
 
 
 # Contato
