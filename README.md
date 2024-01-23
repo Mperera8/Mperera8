@@ -1,7 +1,7 @@
 # Olá, sou o Matheus Pereira.
 
 Atualmente estou cursando Informáticas para Negócios e ainda não trabalho na área de desenvolvimento, mas tenho facilidade para aprender e gosto muito de JAVA.
-
+Apesar de ainda não trabalhar na área de desenvolvimento, sempre faço bom uso das tecnologia envolvidas para beneficiar meu trabalho no dia a dia, como automações RPA com Power Automate e Python
 
 # Contato
 
